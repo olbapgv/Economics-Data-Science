@@ -1,4 +1,4 @@
-# Economics-Data-Science
+# Economics & Data Science
 
 Sample material of the course "Economics & Data Science", co-taught with Carlos Alvarado (Senior Economist @ Central Bank of Chile) at the Pontifical Catholic University of Chile.
 
